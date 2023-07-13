@@ -1,0 +1,15 @@
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.csproj.AssemblyReference.cache
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.AssemblyInfoInputs.cache
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.AssemblyInfo.cs
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.csproj.CoreCompileInputs.cache
+E:\code\vs_code\C#\2048\bin\Debug\net6.0\2048.exe
+E:\code\vs_code\C#\2048\bin\Debug\net6.0\2048.deps.json
+E:\code\vs_code\C#\2048\bin\Debug\net6.0\2048.runtimeconfig.json
+E:\code\vs_code\C#\2048\bin\Debug\net6.0\2048.dll
+E:\code\vs_code\C#\2048\bin\Debug\net6.0\ref\2048.dll
+E:\code\vs_code\C#\2048\bin\Debug\net6.0\2048.pdb
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.dll
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\ref\2048.dll
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.pdb
+E:\code\vs_code\C#\2048\obj\Debug\net6.0\2048.genruntimeconfig.cache
