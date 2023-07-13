@@ -10,12 +10,10 @@ public class Game{
 
     bool keep=true;
     public Game(){
-        // for(int i=0;i<2;i++){
-        //     int tmp=rnd.Next(size[0]*size[1]);
-        //     maps[tmp/size[0],tmp%size[0]]=2;
-        // }
-        maps[0,0]=2;
-        maps[1,0]=2;
+        for(int i=0;i<2;i++){
+            int tmp=rnd.Next(size[0]*size[1]);
+            maps[tmp/size[0],tmp%size[0]]=2;
+        }
     }
 
     public void printMaps(){
