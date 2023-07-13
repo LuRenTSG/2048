@@ -7,8 +7,9 @@ public class Game{
 
     static System.Random rnd = new System.Random((int)System.DateTime.UtcNow.Ticks);
 
-
+    
     bool keep=true;
+    //initial the map and random generate the position of 2s
     public Game(){
         for(int i=0;i<2;i++){
             int tmp=rnd.Next(size[0]*size[1]);
